@@ -4,6 +4,7 @@
 I am an entrepreneur and software engineering leader specializing in architecting high-performance backend infrastructures and seamless cross-platform applications. I lead product engineering frameworks at RIXSOLS, taking conceptual systems from architectural design to deployment-ready delivery.
 
 [![Company LinkedIn](https://shields.io)](https://linkedin.com)
+[![Website](https://shields.io)](https://rixsols.com)
 
 ---
 
