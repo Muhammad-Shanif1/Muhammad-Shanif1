@@ -3,8 +3,9 @@
 ### 🚀 Co-Founder at [RIXSOLS](https://rixsols.com) | Full-Stack Software Engineer
 I am an entrepreneur and software engineering leader specializing in architecting high-performance backend infrastructures and seamless cross-platform applications. I lead product engineering frameworks at RIXSOLS, taking conceptual systems from architectural design to deployment-ready delivery.
 
-[![Company LinkedIn](https://shields.io)](https://linkedin.com)
-[![Website](https://shields.io)](https://rixsols.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="Company LinkedIn" />
+</a>
 
 ---
 
