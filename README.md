@@ -14,30 +14,6 @@ I am an entrepreneur and software engineering leader specializing in architectin
 
 ---
 
-### 📁 Featured Open-Source Projects
-
-#### 🏢 [AutoPlan3d](https://github.com)
-- **Overview:** A specialized architectural design platform optimized for local and cloud environments.
-- **Backend:** Built using Python and [AutoPlan3d-Local-Backend](https://github.com-Local-Backend) powered by FastAPI.
-- **Frontend / Client:** Engineered with Dart and Flutter for responsive, cross-platform 3D workspace handling.
-
-#### 🛡️ [TradeGuard](https://github.com)
-- **Overview:** Secure real-time trade monitoring and transaction tracking platform designed using Dart.
-
-#### ⚡ [FastAPI-Multi-Backends](https://github.com)
-- **Overview:** Production-ready structural repository implementing multi-tenant backend strategies using Python.
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://vercel.app" alt="Shanif's GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 🤝 Connect with Me
 - **Corporate Website:** [rixsols.com](https://rixsols.com)
 - **GitHub Profile:** [@Muhammad-Shanif1](https://github.com)
