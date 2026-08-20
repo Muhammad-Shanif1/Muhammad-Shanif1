@@ -10,7 +10,7 @@ I am an entrepreneur and software engineering leader specializing in architectin
 - **Backend Development:** Python, FastAPI, RESTful APIs, Multi-Backend Architecture, Database Management
 - **Mobile & Cross-Platform:** Dart, Flutter Framework, UI/UX Engineering
 - **Computer Vision & Intelligence:** OpenCV, Automated Image Processing, Generative AI Application Integration
-- **DevOps & Tooling:** Production Deployment Configurations, Git Version Control, Microservices Architecture
+- **AI Automation & Orchestration:** [n8n Workflow Automation Platform](https://github.com/n8n-io/n8n), Multi-step AI Agents, Autonomous Webhook Triggers, API & App Integrations
 
 ---
 
