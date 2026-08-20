@@ -7,6 +7,10 @@ I am an entrepreneur and software engineering leader specializing in architectin
   <img src="https://shields.io" alt="Company LinkedIn" />
 </a>
 
+<a href="https://rixsols.com" target="_blank">
+  <img src="https://shields.io" alt="Website" />
+</a>
+
 ---
 
 ### 🛠️ Tech Stack & Core Competencies
