@@ -16,4 +16,4 @@ I am an entrepreneur and software engineering leader specializing in architectin
 
 ### 🤝 Connect with Me
 - **Corporate Website:** [rixsols.com](https://rixsols.com)
-- **GitHub Profile:** [@Muhammad-Shanif1](https://github.com)
+- **Linkedin Profile:** [@Muhammad-Shanif1]([https://github.com](https://www.linkedin.com/in/muhammad-shanif-142230311/))
